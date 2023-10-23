@@ -1,6 +1,6 @@
 ## Overview
 
-This Python project, "Email Classifier Pro," is designed to classify emails into two categories: "ham" (legitimate) and "spam" (unsolicited or unwanted). It leverages Scikit-Learn for machine learning, Pandas for data handling, and other libraries for data preprocessing, analysis, and evaluation.
+This Python project, "SpamGuard Pro," is designed to classify emails into two categories: "ham" (legitimate) and "spam" (unsolicited or unwanted). It leverages Scikit-Learn for machine learning, Pandas for data handling, and other libraries for data preprocessing, analysis, and evaluation.
 
 ## Table of Contents
 
